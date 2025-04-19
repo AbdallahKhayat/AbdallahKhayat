@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **abdallahabdkhayat@gmail.com**
+- 📫 How to reach me **abdullahabdkhayat@gmail.com**
 
 - ⚡ Fun fact **I like playing video games**
 
